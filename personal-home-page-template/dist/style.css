@@ -1,0 +1,53 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+
+.container {
+  margin: 10px;
+  padding: 5px;
+  background: white;
+}
+
+.main{
+  background-color: tomato;
+}
+
+.tab{
+  margin: 10px;
+  padding: 10px;
+}
+
+.c-site-header{
+  color: #33b5e5;
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+body {
+  margin: 0;
+  height: 100%;
+  background-color: lightgray;
+}
+
+#myPhoto, #myVideo{
+  width: 100%;
+  height: auto;
+}
+
+
+.c-site-footer{
+  margin: 10px;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
